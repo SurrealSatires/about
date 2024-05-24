@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @antsec2
-- 👀 I’m interested in hacking
+- 👋 Hi, I’m @starbixles
+- 👀 I’m interested in programming
 - 🌱 I’m currently learning python and html
 
 <!---
